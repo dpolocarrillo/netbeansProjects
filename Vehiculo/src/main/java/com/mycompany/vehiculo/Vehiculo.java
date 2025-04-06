@@ -39,7 +39,7 @@ public class Vehiculo {
     }
 
     public static void main(String[] args) {
-        Vehiculo vehiculo = new Vehiculo("Renaul", "Blanca con Negra");
+        Vehiculo vehiculo = new Vehiculo("Renaul", "Blanca con Negra.");
         System.out.println("Informacion del Vehiculo");
         vehiculo.mostrarInformacion();
 
